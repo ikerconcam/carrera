@@ -1,0 +1,5 @@
+﻿  CarreraLanchas.cpp
+E:\DAM\M5\CarreraLanchas\CarreraLanchas\CarreraLanchas.cpp(8,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Lancha.cpp
+  Generando código...
+  CarreraLanchas.vcxproj -> E:\DAM\M5\CarreraLanchas\x64\Debug\CarreraLanchas.exe
